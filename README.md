@@ -10,6 +10,13 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - 🔭 I’m currently working on Linguise Multilingual Translation Services. 
 - 🌱 I’m currently learning PHP Course and ReactJS
 
+
+<p align="left">
+<a href="https://github.com/nflhnf28">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **nflhnf28/nflhnf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
