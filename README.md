@@ -20,7 +20,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### You can reach me on: 
 - <a href="https://linkedin.com/in/nflhnf09/">LinkedIn</a>
-- <a href="https://dmds.dev">Naufal's Portfolio</a>
+- <a href="https://nflhnf28.github.io/">Naufal's Portfolio</a>
 
 <!--
 **nflhnf28/nflhnf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
